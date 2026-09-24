@@ -1,0 +1,6 @@
+# 运行时缓存（由脚本自动生成，不入库）
+scripts/.cache_cycle_data.json
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
